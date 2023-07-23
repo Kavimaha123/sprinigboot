@@ -16,5 +16,7 @@ public class StockService {
     public List<StockModel> getStocks() {
         List<StockModel> res=  stockRepository.findAll();
         return res;
+
+        
     }
 }
