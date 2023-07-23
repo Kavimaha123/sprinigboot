@@ -1,10 +1,10 @@
-package com.kavi.supermarketapplication;
+package com.kavi.supermarket;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SupermarketapplicationApplicationTests {
+class SupermarketApplicationTests {
 
 	@Test
 	void contextLoads() {
